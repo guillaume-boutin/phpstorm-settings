@@ -4,7 +4,7 @@
     <property name="created">2018-03-05T15:19:37</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-03-05T15:46:34</property>
+    <property name="modified">2018-03-05T23:11:20</property>
     <property name="originalScheme">Material Oceanic</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -613,6 +613,7 @@
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
         <option name="FOREGROUND" value="82aaff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
@@ -677,6 +678,7 @@
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
         <option name="FOREGROUND" value="82aaff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
@@ -693,6 +695,7 @@
     <option name="DEFAULT_STATIC_METHOD">
       <value>
         <option name="FOREGROUND" value="82aaff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
@@ -2562,7 +2565,7 @@
     </option>
     <option name="PHP_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="c3d3de" />
+        <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
     <option name="PHP_INSTANCE_FIELD">
@@ -2578,7 +2581,7 @@
     </option>
     <option name="PHP_INTERFACE">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
     <option name="PHP_KEYWORD">
@@ -2646,7 +2649,7 @@
     </option>
     <option name="PHP_TAG">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
     <option name="PHP_VAR">
