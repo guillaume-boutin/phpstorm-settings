@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Comment line keep caret">
+      <action id="Macro.Comment line keep caret" />
+      <action id="CommentByLineComment" />
+      <action id="EditorUp" />
+    </macro>
+  </component>
+</application>
